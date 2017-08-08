@@ -1,0 +1,39 @@
+{
+  "name": "tabularedux",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "prop-types": "^15.5.10",
+    "react-redux": "^5.0.5",
+    "redux": "^3.5.2",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.1.0",
+    "express": "^4.15.3",
+    "grid-styled": "^2.0.0-7",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "reactabular-table": "^8.9.0",
+    "react-tabs": "^1.1.0"
+},
+  "devDependencies": {
+    "annogenerate": "^0.8.1",
+    "babel-core": "^5.6.18",
+    "babel-loader": "^5.1.4",
+    "babel-plugin-lodash": "^3.2.11",
+    "babel-plugin-react-transform": "^1.1.0",
+    "css-loader": "^0.19.0",
+    "invariant": "^2.0.0",
+    "lodash": "^4.17.4",
+    "react-edit": "^6.2.0",
+    "schema2object": "^0.4.0",
+    "style-loader": "^0.12.4",
+    "symbol-observable": "^1.0.3",
+    "uuid": "^3.0.1",
+    "webpack": "^1.9.11",
+    "webpack-dev-middleware": "^1.2.0",
+    "webpack-hot-middleware": "^2.2.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
